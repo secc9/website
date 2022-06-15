@@ -1,0 +1,47 @@
+body {
+  background-color: #37E2D5;
+}
+
+hr {
+  background-color: none;
+  border-color: #FBCB0A;
+  opacity: 0.5;
+  border-style: dotted none none none;
+  width: 40%;
+  border-width: 150px;
+}
+
+table{
+  align-items: center;
+}
+ img{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+  height: 50%;
+  width: 50%;
+}
+
+h1 {
+  text-align: center;
+  color: #590696;
+  opacity: 0.9;
+}
+
+h3 {
+  text-align: center;
+  color: #590696;
+  opacity: 0.9;
+}
+
+p {
+  text-align: center;
+  color: #590696;
+  opacity: 0.9;
+}
+
+a {
+
+  color: #590696;
+  opacity: 0.9;
+}

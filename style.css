@@ -7,7 +7,7 @@ hr {
   border-color: #FBCB0A;
   opacity: 0.5;
   border-style: dotted none none none;
-  width: 40%;
+  width: 60%;
   border-width: 150px;
 }
 
@@ -23,25 +23,41 @@ table{
 }
 
 h1 {
+
+  font-family:sans-serif;
   text-align: center;
   color: #590696;
   opacity: 0.9;
 }
 
 h3 {
+  font-family:sans-serif;
   text-align: center;
   color: #590696;
   opacity: 0.9;
 }
 
 p {
+  font-family:sans-serif;
   text-align: center;
+  color: #590696;
+  opacity: 0.9;
+}
+td{
+  font-family:sans-serif;
+  text-align: left;
   color: #590696;
   opacity: 0.9;
 }
 
 a {
-
+font-family:sans-serif;
   color: #590696;
   opacity: 0.9;
+}
+
+main{
+  text-align: justify;
+  color: #C70A80;
+  opacity: 1;
 }

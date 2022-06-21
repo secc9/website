@@ -7,32 +7,57 @@ hr {
   border-color: #FBCB0A;
   opacity: 0.5;
   border-style: dotted none none none;
-  width: 40%;
-  border-width: 30px;
+  width: 60%;
+  border-width: 150px;
 }
 
-/* img{
-  height: 400%;
-  width: 400%;
-
+table{
+  align-items: center;
 }
-*/
+ img{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+  height: 50%;
+  width: 50%;
+}
+
 h1 {
+
+  font-family:sans-serif;
+  text-align: center;
   color: #590696;
   opacity: 0.9;
 }
 
 h3 {
+  font-family:sans-serif;
+  text-align: center;
   color: #590696;
   opacity: 0.9;
 }
 
 p {
+  font-family:sans-serif;
+  text-align: center;
+  color: #590696;
+  opacity: 0.9;
+}
+td{
+  font-family:sans-serif;
+  text-align: left;
   color: #590696;
   opacity: 0.9;
 }
 
 a {
+font-family:sans-serif;
   color: #590696;
   opacity: 0.9;
+}
+
+main{
+  text-align: justify;
+  color: #C70A80;
+  opacity: 1;
 }

@@ -14,14 +14,13 @@ hr {
 table{
   align-items: center;
 }
- img{
-   display: flex;
-   align-items: center;
-   justify-content: center;
+
+/* img{
   height: 50%;
   width: 50%;
 }
 
+*/
 h1 {
 
   font-family:sans-serif;

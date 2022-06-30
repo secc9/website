@@ -1,6 +1,70 @@
+
+/********Tags*********/
+
 body {
   background-color: #37E2D5;
 }
+
+
+h1 {
+
+  font-family:Gill Sans;
+  font-weight: bolder;
+  text-align: center;
+  color: #590696;
+  opacity: 0.9;
+}
+
+h3 {
+  font-family:Gill Sans;
+  font-weight: bold;
+  text-align: center;
+  color: #590696;
+  opacity: 0.9;
+}
+
+
+p {
+  font-family:Gill Sans;
+  text-align: center;
+  font-weight: lighter;
+  color: #590696;
+  opacity: 0.9;
+}
+
+table{
+  align-items: center;
+}
+
+th{
+  font-family:Gill Sans;
+    font-weight: lighter;
+  text-align: center;
+  color: #590696;
+  opacity: 0.9;
+
+}
+td{
+  font-family:Gill Sans;
+    font-weight: lighter;
+  text-align: left;
+  color: #590696;
+  opacity: 0.9;
+}
+
+a {
+font-family:Gill Sans;
+font-weight: lighter;
+  color: #590696;
+  opacity: 0.9;
+}
+
+main{
+  text-align: justify;
+  color: #C70A80;
+  opacity: 1;
+}
+
 
 hr {
   background-color: none;
@@ -11,52 +75,61 @@ hr {
   border-width: 150px;
 }
 
-table{
-  align-items: center;
-}
 
 /* img{
   height: 50%;
   width: 50%;
 }
-
 */
-h1 {
 
-  font-family:sans-serif;
+.name{
+  border: hidden;
+background-color: #C70A80;
+opacity: 0.2;
+}
+
+.email{
+  border: hidden;
+background-color: #C70A80;
+opacity: 0.2;
+}
+
+.tArea{
+  border: hidden;
+  background-color: #C70A80;
+  opacity: 0.2;
+
+}
+/************class tags*********************/
+.myName{
+  font-family:Gill Sans;
+  font-size: 100px;
+  font-weight: bolder;
   text-align: center;
   color: #590696;
   opacity: 0.9;
+
 }
 
-h3 {
-  font-family:sans-serif;
+
+
+.header{
+  font-family: Gill Sans;
   text-align: center;
+  font-size: 30px;
   color: #590696;
-  opacity: 0.9;
 }
-
-p {
-  font-family:sans-serif;
+.title{
+  font-family: Gill Sans;
   text-align: center;
+  font-size: 20px;
+  color: #590696
+}
+.class{
+  font-family:Gill Sans;
+  text-align: center;
+  font-weight: lighter;
   color: #590696;
   opacity: 0.9;
-}
-td{
-  font-family:sans-serif;
-  text-align: left;
-  color: #590696;
-  opacity: 0.9;
-}
 
-a {
-font-family:sans-serif;
-  color: #590696;
-  opacity: 0.9;
-}
-
-main{
-  text-align: justify;
-  color: #C70A80;
-  opacity: 1;
 }

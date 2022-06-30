@@ -5,11 +5,6 @@ body {
   background-color: #37E2D5;
 }
 
-.hRule:hover{
-  color: #C70A80;
-
-}
-
 h1 {
 
   font-family:Gill Sans;
@@ -71,9 +66,12 @@ main{
 }
 
 
-hr {
+
+hr{
   background-color: none;
   border-color: #FBCB0A;
+
+
   opacity: 0.5;
   border-style: dotted none none none;
   width: 60%;

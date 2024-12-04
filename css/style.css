@@ -26,7 +26,7 @@ h3 {
 
 p {
   font-family:Gill Sans;
-  text-align: center;
+  text-align: left;
   font-weight: lighter;
   color: #590696;
   opacity: 0.9;
@@ -53,9 +53,10 @@ td{
 }
 
 a {
-font-family:Gill Sans;
+font-family:Futura;
 font-weight: lighter;
-  color: #590696;
+text-align: right;
+  color: black;
   opacity: 0.9;
 }
 

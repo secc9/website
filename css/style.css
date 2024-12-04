@@ -7,11 +7,11 @@ body {
 
 h1 {
 
-  font-family:Gill Sans;
-  font-weight: bolder;
-  font-size: 100px;
+  font-family:Futura;
+  font-weight: light;
+  font-size: 20px;
   text-align: left;
-  color: #590696;
+  color: black;
   opacity: 0.9;
 }
 

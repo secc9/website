@@ -2,3 +2,6 @@ work.html~
 index.html~
 audio.html~
 css/#style.css#
+
+# Ignore Emacs temporary/lock files
+.#*

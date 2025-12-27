@@ -15,19 +15,37 @@
 <body>
 
 
+  <div class=name>
 <h1>
   <a href="index.html">Ashley Sagar</a>
 </h1>
-  
+  </div>
   <!-- ///////////////////////////////////////////////////// -->
   <!-- /////////////////LINKS TO OTHER PAGES////////////////// -->
 
 
+  <section class=menu>
+<div class=title>
 <a href="audio.html">audio</a>
+</div>
+
+<div class=title>
 <a href="visual.html">visual</a>
+</div>
+
+<div class=title>
 <a href="cv.html">cv</a>
+</div>
+
+<div class=title>
 <a href="bio.html">bio</a>
+</div>
+
+<div class=title>
 <a href="contact_form.html">booking</a>
+</div>
+
+</section>
 
 </body>
 

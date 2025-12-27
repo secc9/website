@@ -2,7 +2,8 @@
 /********Tags*********/
 
 body {
-  background-color: white;
+    background-color: white;
+    
 }
 
 /* img{
@@ -16,4 +17,87 @@ body {
 
 /************class tags*********************/
 
-.class
+/**.class**/
+
+
+
+
+div {
+    color: white;
+    background-color: white;
+}
+
+h1{
+    font-family: arial;
+    color: black;
+}
+
+h2{
+    font-family: arial;
+    color: black;
+}
+
+h3{
+    font-family: arial;
+    color: black;
+}
+
+
+p {
+    font-family: arial;
+    color: black;
+}
+
+a:link{
+    text-decoration:none;
+}
+a:visited{
+    text-decoration:none;
+}
+a:hover{
+    text-decoration:none;
+}
+a:active{
+    text-decoration:none;
+}
+
+.name{
+    display: flex;
+    justify-content: left;
+}
+
+.menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex:3;
+}
+
+.title{
+    display: flex;
+    justify-content: left;
+    
+}
+
+.pageTitle{
+    display: flex;
+    justify-content: left;
+}
+
+
+.audioProjects{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-evenly;
+    align-content: left;
+    
+}
+
+.visualProjects{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-evenly;
+    align-content: left;
+    
+}
+

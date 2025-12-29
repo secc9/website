@@ -66,16 +66,16 @@ footer{
     text-decoration: none;
 }
 
+.audio-project-links a:hover{
+    color: grey;
+}
+
 
  .audio-project-links ul{
      display: flex;
      flex-direction: column;
      list-style: none;
-     gap: 20px;
-    
-     
-   
-     
+     gap: 20px; 
  }
 
 
@@ -89,5 +89,20 @@ footer{
      list-style: none;
  }
 
+/*
+ .art-links{
+     border: dotted red;
+ }
+*/
+
+ .art-links a{
+     display: flex;
+     justify-content: end;
+     text-decoration: none;
+     color: black;
+ }
+ .art-links a:hover{
+     color: grey;
+ }
 
 

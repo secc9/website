@@ -3,7 +3,7 @@
 
 body {
     
-   
+    
     display:flex;
     flex-direction: column;
     background-color: white;
@@ -71,23 +71,23 @@ footer{
 }
 
 
- .audio-project-links ul{
-     display: flex;
-     flex-direction: column;
-     list-style: none;
-     gap: 20px; 
- }
+.audio-project-links ul{
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    gap: 20px; 
+}
 
 
- .education-list{
-     display: flex;
-     flex-direction: column;
-     justify-content: end;
- }
+.education-list{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
 
- .education-list ul{
-     list-style: none;
- }
+.education-list ul{
+    list-style: none;
+}
 
 /*
  .art-links{
@@ -95,14 +95,23 @@ footer{
  }
 */
 
- .art-links a{
-     display: flex;
-     justify-content: end;
-     text-decoration: none;
-     color: black;
- }
- .art-links a:hover{
-     color: grey;
- }
 
 
+
+.show-links a{
+    display: flex;
+    justify-content: end;
+    text-decoration: none;
+    
+    color: black; 
+}
+
+
+.show-links a:hover{
+    color: grey;
+}
+
+
+.art-shows-type{
+    font-size: 10px;
+}

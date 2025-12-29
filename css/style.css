@@ -2,12 +2,10 @@
 /********Tags*********/
 
 body {
-     
-    //min-height: 80px;
-    //border: 8px solid black;
+    
+   
     display:flex;
     flex-direction: column;
-   // justify-content: right;
     background-color: white;
     gap: 20px;
     font-family: arial;
@@ -21,12 +19,75 @@ body {
 
 
 footer{
+    justify-content: bottom;
     
 }
 
+.my-name {
+    display: flex;
+    justify-content: end;
+
+    
+}
+.my-name a{
+    text-decoration: none;
+    color: black;
+}
 
 
+.primary-navigation{
+    display: flex;
+    justify-content: end;
+    
+}
+.primary-navigation ul{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
 
+.primary-navigation a{
+    display: flex;
+    color: black;
+    text-decoration: none;
+    
+}
+
+.audio-project-links {
+    display: flex;
+    justify-content: end;
+}
+
+.audio-project-links a{
+    
+    color: black;
+    text-decoration: none;
+}
+
+
+ .audio-project-links ul{
+     display: flex;
+     flex-direction: column;
+     list-style: none;
+     gap: 20px;
+    
+     
+   
+     
+ }
+
+
+ .education-list{
+     display: flex;
+     flex-direction: column;
+     justify-content: end;
+ }
+
+ .education-list ul{
+     list-style: none;
+ }
 
 
 

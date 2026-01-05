@@ -18,11 +18,6 @@ body {
 
 
 
-footer{
-    justify-content: bottom;
-    
-}
-
 .my-name {
     display: flex;
     justify-content: end;
@@ -59,7 +54,7 @@ footer{
     text-decoration: none;
 }
 .primary-navigation a:hover{
-    color: #47474C;
+    color:  #C3C4C6;
 }
 
 .audio-project-links {
@@ -74,7 +69,7 @@ footer{
 }
 
 .audio-project-links a:hover{
-    color: grey;
+    color:  #C3C4C6;
 }
 
 
@@ -125,4 +120,29 @@ footer{
 .art-shows-type{
     font-size: 10px;
 }
+
+
+
+footer{
+    justify-content: bottom;
+    
+}
+
+.footer-link{
+      display: flex;
+      justify-content: end;
+}
+
+.footer-link a{
+    text-decoration: none;
+    color: black;
+       
+}
+
+.footer-link a:hover{
+    text-decoration: none;
+    color: #C3C4C6;
+    
+}
+
 

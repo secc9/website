@@ -28,9 +28,9 @@ body {
     color: black;
 }
 .my-name a:hover{
-    text-decoration: none;
-    color: #C3C4C6;
-    
+  text-decoration: none;
+  color: #C3C4C6;
+  
 }
 
 
@@ -101,7 +101,7 @@ body {
 
 
 .show-links a:hover{
-    color: grey;
+  color: #C3C4C6;
 }
 
 

@@ -1,0 +1,12 @@
+
+
+
+function setup(){
+createCanvas(displayWidth, dfisplayHeight);
+frameRate(30);
+}
+
+
+function draw(){
+ellipse(random(), random(), 10, 10);
+}

@@ -124,7 +124,9 @@ body {
 
 
 footer{
-    justify-content: bottom;
+  display:flex;
+  flex-direction: row;
+  justify-content: flex-end;
     
 }
 

@@ -16,6 +16,7 @@ body {
 
 
 
+/* navigation css */
 .my-name {
     display: flex;
     justify-content: end;
@@ -55,6 +56,8 @@ body {
     color:  #C3C4C6;
 }
 
+
+/* Audio page css*/
 .audio-project-links {
     display: flex;
     justify-content: end;
@@ -78,20 +81,6 @@ body {
     gap: 20px; 
 }
 
-
-.education-list{
-    display: flex;
-    flex-direction: column;
-    justify-content: end;
-}
-
-.education-list ul{
-    list-style: none;
-}
-
-.edu-list-type{
-    font-size: 10px;
-}
 /*
  .art-links{
      border: dotted red;
@@ -100,6 +89,7 @@ body {
 
 
 
+/* cv page CSS */
 
 .show-links a{
     display: flex;
@@ -120,7 +110,36 @@ body {
 }
 
 
+.education-list{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
 
+.education-list ul{
+    list-style: none;
+}
+
+.edu-list-type{
+  font-size: 10px;
+}
+
+
+
+.visuals-videos-list{
+  display: flex;
+  flex-direction: column;  
+}
+.visuals-videos-list ul{
+  list-style: none;
+  gap: 20px;
+
+}
+
+
+
+
+/* footer CSS */
 footer{
   display:flex;
   flex-direction: row;

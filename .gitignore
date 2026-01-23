@@ -11,3 +11,5 @@ cv.html~
 
 # Ignore Emacs temporary/lock files
 .#*
+experiments.html~
+sketchA.js~

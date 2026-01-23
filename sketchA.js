@@ -25,9 +25,15 @@ let nPosY = posY + random(-amt, amt);
 
 //draw a line with current properties and coordinates
 noFill();
-strokeWeight(random(0.1, random(2,20)));
+// line01
+strokeWeight(random(0.1, random(2,4)));
 stroke(random(0, 100), random(100, 200), random(155, 255));
 line(posX, posY, nPosX, nPosY);
+//line02
+strokeWeight(random(0, 2));
+stroke(255, random(200,255), random(200,255));
+line(posX+random(0,10), posY+random(0,10), nPosX, nPosY);
+
 
 //update current position
 posX = nPosX;

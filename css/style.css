@@ -70,7 +70,7 @@ body {
 }
 
 .audio-project-links a:hover{
-    color:  #C3C4C6;
+  color:  #C3C4C6;
 }
 
 
@@ -134,6 +134,23 @@ body {
   list-style: none;
   gap: 20px;
 
+}
+
+
+/* Experiments page CSS*/
+
+.expContainer{
+
+  
+}
+
+.expContainer a{
+  text-decoration: none;
+  color: #000000;
+}
+
+.expContainer a:hover{
+  color: #C3C4C6;
 }
 
 

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+
+<head>
+	<meta charset="UTF-8">
+	<title>algorithmic_filmaking</title>
+	<meta name="author" content="ashley sagar">
+	<meta name="description" content="green road studios website">
+	<!-- set viewport for devices -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="css/style.css">
+	</head>
+	
+	<body>
+	
+		<header>
+			<h1><a href="index.html">green road studios</a></h1>
+			<h2>experimental design studios</h2>
+	
+			<section>
+				<nav>
+					<ul><li><a href="digital.html">digital</a></li>
+						<li><a href="physical.html">physical</a></li>
+						<li><a href="mythical.html">mythical</a></li>
+						<li><a href="spiritual.html">spiritual</a></li>
+					</ul>
+				</nav>
+			</section>
+		</header>
+
+
+		<main>
+		</main>
+		
+		<footer>
+			<p0>©2026 green.road.studios. All rights reserved.</p>
+		</footer>
+</body>
+
+
+</html>

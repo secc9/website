@@ -154,6 +154,15 @@ body {
 }
 
 
+/* Algorithmic filmaking CSS*/
+
+.algoVizVideos{
+  display: grid;
+  justify-content: center;
+  gap: 20px;
+}
+
+
 
 
 /* footer CSS */

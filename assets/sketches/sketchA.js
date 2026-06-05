@@ -3,7 +3,8 @@
 // a random walk
 
 
-let posX, posY;
+let posX = width/2;
+let posY = height/2;
 let amt;
 let size = 900;
 function setup(){

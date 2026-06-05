@@ -3,10 +3,10 @@
 // a random walk
 
 
-let posX = width/2;
-let posY = height/2;
+let posX=0;
+let posY=0;
 let amt;
-let size = 900;
+//let size = 900;
 function setup(){
 createCanvas(windowWidth, windowHeight);
 frameRate(30);
@@ -43,7 +43,7 @@ posY = nPosY;
 }
 
 
-// click moise to start drawing
+// click mouse to start drawing
 function mousePressed(){
 posX = mouseX;
 posY= mouseY;

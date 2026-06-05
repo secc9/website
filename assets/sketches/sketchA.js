@@ -8,7 +8,7 @@ let posY = height/2;
 let amt;
 let size = 900;
 function setup(){
-createCanvas(displayWidth, displayHeight);
+createCanvas(windowWidth, windowHeight);
 frameRate(30);
 background(255);
 

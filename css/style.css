@@ -139,10 +139,11 @@ body {
 
 /* Experiments page CSS*/
 
-.expContainer{
 
-  
-}
+
+
+
+
 
 .expContainer a{
   text-decoration: none;
@@ -154,7 +155,7 @@ body {
 }
 
 
-/* Algorithmic filmaking CSS*/
+/* Algorithmic filmmaking CSS*/
 
 .algoVizVideos{
   display: grid;

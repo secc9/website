@@ -106,7 +106,7 @@ body {
 
 
 .art-shows-type{
-    font-size: 10px;
+    font-size: 14px;
 }
 
 
@@ -121,7 +121,7 @@ body {
 }
 
 .edu-list-type{
-  font-size: 10px;
+  font-size: 14px;
 }
 
 
@@ -193,4 +193,29 @@ footer{
 
 .video-algo{
   width:100%
+}
+
+/* CV show entry spacing */
+.show-links > div {
+  margin-bottom: 20px;
+}
+
+/* ---- Responsive / Mobile ---- */
+@media (max-width: 600px) {
+
+  body {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+
+  .primary-navigation ul {
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .art-shows-type,
+  .edu-list-type {
+    font-size: 16px;
+  }
+
 }
